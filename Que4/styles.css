@@ -1,0 +1,96 @@
+body {
+    background-image : url("https://www.myfreewalls.com/public/uploads/preview/dark-abstract-gaming-color-5k-wallpaper-11625792127spo6ievzi6.jpg");
+}
+.main {
+    width: 70%;
+    margin : 50px auto 50px auto;
+    background-color: whitesmoke;
+    background-attachment: fixed;
+}
+.box1 {
+    width: 100%;
+    background-color:ghostwhite;
+    background-image: url("https://wallpaperaccess.com/full/6273534.gif");
+}
+.box1>img {
+    border-radius: 50%;
+    vertical-align: middle;
+    margin: 30px;
+}
+.hd {
+    width: 500px;
+    float: right;
+    margin : 100px 13% 0px 0px;
+}
+.hd>h1,.hd>p {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: fit-content;
+    color:coral;
+    background-color: black;
+    margin: 0px auto 0px auto;
+    padding: 10px;
+}
+.hd>p {
+    font-family: cursive;
+}
+.nav {
+    background-color:wheat;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    font-weight:500;
+}
+.nav a {
+    text-decoration: none;
+    text-align: center;
+    border-left : 2px solid black;
+    border-right: 2px solid black;
+    margin: 5px 25px 5px 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.nav>a:hover {
+    background-image:url("https://ak.picdn.net/shutterstock/videos/1008335812/thumb/1.jpg");
+    background-size: contain;
+    color: aliceblue;
+    font-weight: 800;
+}
+#first {
+    margin-left: 20%;
+}
+.main>p {
+    padding: 50px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    font-size: large;
+    width: 850px;
+    margin: 0px auto 0px auto;
+    text-align: center;
+}
+.main>h1 {
+    width: fit-content;
+    margin: 20px auto 0px auto;
+    font-family: Arial, Helvetica, sans-serif;
+    color:cornflowerblue;
+    border-bottom: 2px solid orchid;
+}
+.main>img {
+    border: 2px solid gold;
+    vertical-align: middle;
+    margin-right: 20px;
+    margin-left: 20%;
+    padding:20px;
+}
+span {
+    font-family: cursive;
+    color: violet;
+}
+.end {
+    font-size: medium;
+}
+.end a {
+    text-decoration: none;
+}
+.sp {
+    font-weight: 600;
+    color:darkgoldenrod;
+}
